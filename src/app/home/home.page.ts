@@ -9,4 +9,8 @@ export class HomePage {
 
   constructor() {}
 
+  nativeCall() {
+    console.log('Button Pressed!');
+  }
+
 }
